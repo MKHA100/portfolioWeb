@@ -1,0 +1,26 @@
+/*--------- Start Facts Area -------------*/
+.single-fact {
+    text-align: center;
+  }
+  
+  .single-fact h1,
+  .single-fact p {
+    color: #fff;
+  }
+  
+  .single-fact h1 {
+    font-weight: 700;
+  }
+  
+  @media (max-width: 990px) {
+    .single-fact {
+      margin-bottom: 30px !important;
+    }
+
+    .facts-area {
+        padding: 60px 0 40!important;
+        height: auto;
+    }
+  }
+  
+  /*--------- End Facts Area -------------*/

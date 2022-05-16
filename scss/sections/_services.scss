@@ -1,0 +1,48 @@
+/*--------- Start Services Area -------------*/
+.single-services {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.single-services .lnr {
+  font-size: 35px;
+  color: #222;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+.single-services i {
+  font-size: 35px;
+  color: #222;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.single-services h4 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.single-services p {
+  max-width: 318px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.single-services:hover h4 {
+  color: #8490ff;
+}
+
+.single-services:hover .lnr {
+  -webkit-text-fill-color: #8490ff;
+}
+
+/*--------- End Services Area -------------*/
